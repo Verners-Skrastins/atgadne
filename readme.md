@@ -1,0 +1,1 @@
+Pirmais meginajus ar komandam
