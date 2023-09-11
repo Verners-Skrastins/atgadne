@@ -11,7 +11,7 @@ vardi = ["Anna", "Peteris", "Maris"]
 koordinatas = (21.5, 2.71)
 krasas = ("zaļa", 'sarkana', 'zila')
 #6. vardnicas
-persona = {"vārds": "jānis", "uzvārds": "Straupe"}
+persona = {"vārds": "jānis", "uzvārds": "Straupe", "skola": "Grobiņas"}
 #6 bool tipa mainīgie
 ir_lietotajs_pieteicies = True
 vai_ir_admins = False
